@@ -1,0 +1,2 @@
+rootProject.name='Dyktafon'
+include ':app'
